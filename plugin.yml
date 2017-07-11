@@ -1,0 +1,58 @@
+name: NightUtils
+version: 1.0
+main:  us.nightpvp.utils.NightUtils
+commands:
+   test:
+      description: Testing root command
+      usage: /<command>
+   switchworld:
+      description: Testing root command
+      usage: /<command>
+   waterwalk:
+      description: Testing root command
+      usage: /<command>
+   setmoondelay:
+      description: Testing root command
+      usage: /<command>
+   setremdelay:
+      description: Testing root command
+      usage: /<command>
+   bypass:
+      description: Testing root command
+      usage: /<command>
+   vpnappeal:
+      description: Testing root command
+      usage: /<command>
+   wild:
+      description: Testing root command
+      usage: /<command>
+   login:
+      description: Testing root command
+      usage: /<command>
+   weather:
+      description: Testing root command
+      usage: /<command>
+   clearchat:
+      description: Testing root command
+      usage: /<command>
+   lockchat:
+      description: Testing root command
+      usage: /<command>
+   setchatdelay:
+      description: Testing root command
+      usage: /<command>
+   issues:
+      description: Testing root command
+      usage: /<command>
+   rewarder:
+      description: Testing root command
+      usage: /<command>
+   ddos:
+      description: Testing root command
+      usage: /<command>
+   flush:
+      description: Testing root command
+      usage: /<command>
+   alert:
+      description: Testing root command
+      usage: /<command>
